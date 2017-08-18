@@ -16,3 +16,6 @@ Here the author thinks that corss-channel correlations and spatial correlations 
 
 So the depthwise separable convolution is first using 1x1x(high dimension number) conv to get high dimension and then do regular
 conv operations each channel(each channel a separable conv kernel, 3x3x1, for example.) Finally, concat the outputs of each conv kernel. Overall, **it does regular conv operations in each channel**
+
+## Create Anime Characters with A.I.!
+Results are astonishing, yet method is nothing special. It just adopts a type of existing variant of GAN, and using a clean dataset.

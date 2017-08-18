@@ -23,6 +23,7 @@ to make it easier for myself or someone else to catch something useful.
 7. One-Sided Unsupervised Domain Mapping
 8. Unsupervised Representations Learning With Deep Convolutional Generative Adversarial Networks
 9. Image-to-Image Translation with Conditional Adversarial Networks
+10. Create Anime Characters with A.I.!
 
 # Style Transfer
 1. A Neural Algorithm of Artistic Style

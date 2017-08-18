@@ -72,6 +72,7 @@ to make it easier for myself or someone else to catch something useful.
 19. Visualizing and Understanding Deep Texture Representations
 20. Deep Learning with S-shaped Rectified Linear Activation Units
 21. Densely Connected Convolutional Networks
+22. Xceptions: Deep Learning with DepthWise Separable Convolutions
 
 # Inpainting
 1. Context Encoders: Feature Learning by Inpainting

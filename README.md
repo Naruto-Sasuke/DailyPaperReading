@@ -11,6 +11,16 @@ Then it will be classified into `style transfer`
 Maybe later, I can add some short descriptions about each paper
 to make it easier for myself or someone else to catch something useful.
 
+# Planning to read(hah)
+1. Two-Stream Convolutional Networks for Dynamic Texture Synthesis
+2. What are the Receptive, Effective, and Projective Fields of Neurons in Convolutional Neural Networks
+3. Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network. (sub-pixel CNN)
+4. Photo-realistic single image super-resolution using a generative adversarial network.(SRResNet)
+5. How to train your dragan(DRGAN)
+6. Stacked Generative Adversaria Networks
+7. Show, Atend and Tell:Neural Image Caption Generation with Visual Attention
+8. StyleNet: Generating Attractive Visual Captions with Styles
+9. ZM-Net: Real-time Zero-shot Image Manipulation Network
 
 # GAN
 
@@ -79,5 +89,9 @@ to make it easier for myself or someone else to catch something useful.
 1. Context Encoders: Feature Learning by Inpainting
 2. High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
 
+# Image Caption
+
+
 # Uncategory
 1. RAID-G: Robust Estimation of Approximate Infinite Dimensional Gaussian with Application to Material Recognition
+2. Deep Feature Interpolation for Image COntent Changes

@@ -19,3 +19,4 @@ conv operations each channel(each channel a separable conv kernel, 3x3x1, for ex
 
 ## Create Anime Characters with A.I.!
 Results are astonishing, yet method is nothing special. It just adopts a type of existing variant of GAN, and using a clean dataset.
+The approach of gathering the dataset deserving learning.

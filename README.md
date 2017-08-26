@@ -3,13 +3,14 @@ It mainly contains most papers that I have read.
 For ease of writing, I just write them down orderlessly.
 
 ## Minor-First Rule
-The more specific field it included, the high priority it belongs to.
-For example, some paper give a method to generative cartoons using GAN.
-Then it will be classified into `style transfer`
+The more specific field it is included, the high priority it belongs to.
+For example, some papers propose methods to generate cartoons using GANs.
+Then they will be categoried into `style transfer`
 
 # Maybe I will do
 Maybe later, I can add some short descriptions about each paper
 to make it easier for myself or someone else to catch something useful.
+But I think if anyone can help me... Or maybe I jsut think too much.
 
 # Planning to read(hah)
 1. Two-Stream Convolutional Networks for Dynamic Texture Synthesis
@@ -94,4 +95,4 @@ to make it easier for myself or someone else to catch something useful.
 
 # Uncategory
 1. RAID-G: Robust Estimation of Approximate Infinite Dimensional Gaussian with Application to Material Recognition
-2. Deep Feature Interpolation for Image COntent Changes
+2. Deep Feature Interpolation for Image Content Changes

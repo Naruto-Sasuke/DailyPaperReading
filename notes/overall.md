@@ -20,3 +20,11 @@ conv operations each channel(each channel a separable conv kernel, 3x3x1, for ex
 ## Create Anime Characters with A.I.!
 Results are astonishing, yet method is nothing special. It just adopts a type of existing variant of GAN, and using a clean dataset.
 The approach of gathering the dataset deserving learning.
+
+## Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network. (sub-pixel CNN)
+It is quite interesting. As usual, a SR task inputs the LR image and outputs the HR image. Mention: the LR image has the same size as HR one. This paper proposes a
+sub-pixel conv which upscale the HR_little to HR. HR_little has the size of 1/r(r>1)
+size of HR. We just add the sub-pixel conv to the last of the model.
+
+This means the layer takes the input of H*W*(r\*r\*C) and outputs (r\*H)\*(r\*W)\*C.
+It periodically takes the pixel across the channel to construct the small path of r*r.

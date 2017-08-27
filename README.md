@@ -13,9 +13,8 @@ to make it easier for myself or someone else to catch something useful.
 But I think if anyone can help me... Or maybe I jsut think too much.
 
 # Planning to read(hah)
-1. Two-Stream Convolutional Networks for Dynamic Texture Synthesis
 2. What are the Receptive, Effective, and Projective Fields of Neurons in Convolutional Neural Networks
-3. Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network. (sub-pixel CNN)
+
 4. Photo-realistic single image super-resolution using a generative adversarial network.(SRResNet)
 5. How to train your dragan(DRGAN)
 6. Stacked Generative Adversaria Networks
@@ -91,6 +90,12 @@ But I think if anyone can help me... Or maybe I jsut think too much.
 2. High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
 
 # Image Caption
+
+
+# Image Super Resolution
+1. Image super-resolution using deep convolutional networks(SRCNN)
+2. Accurate Image Super-Resolution Using Very Deep Convolutional Networks(VDSR)
+3. Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network. (sub-pixel CNN)
 
 
 # Uncategory

@@ -10,7 +10,7 @@ Then they will be categoried into `style transfer`
 # Maybe I will do
 Maybe later, I can add some short descriptions about each paper
 to make it easier for myself or someone else to catch something useful.
-But I think if anyone can help me... Or maybe I jsut think too much.
+But I think if anyone can help me... Or maybe I just think too much.
 
 # Planning to read(hah)
 2. What are the Receptive, Effective, and Projective Fields of Neurons in Convolutional Neural Networks
@@ -37,25 +37,26 @@ But I think if anyone can help me... Or maybe I jsut think too much.
 
 # Style Transfer
 1. A Neural Algorithm of Artistic Style
-2. Perceptual Losses for Real-Time Style Transfer and Super-Resolution
-3. Incorporating long-range consistency in CNN-based texture generation
-4. Deep Identity-aware Transfer of Facial Attributes
-5. Fast Patch-based Style Transfer of Arbitrary Style
-6. A Learned representation for artistic style
-7. Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
-8. Controlling Perceptual Factors in Neural Style Transfer
-9. Deep Photo Style Transfer
-10. Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses
-11. SON OF ZORN’S LEMMA TARGETED STYLE TRANSFER USING INSTANCE-AWARE SEMENTIC SEGMENTATION
-12. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
-13. Characterizing and Improving Stability in Neural Style Transfer
-14. Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer
-15. Visual Attribute Transfer through Deep Image Analogy
-16. Demystifying Neural Style Transfer
-17. Neural Style Transfer:A Review
-18. Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
-19. Fast Face-swap Using Convolutional Neural Networks
-20. Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis
+2 .Texture Networks: Feed-forward Synthesis of Textures and Stylized Images
+3. Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+4. Incorporating long-range consistency in CNN-based texture generation
+5. Deep Identity-aware Transfer of Facial Attributes
+6. Fast Patch-based Style Transfer of Arbitrary Style
+7. A Learned representation for artistic style
+8. Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+9. Controlling Perceptual Factors in Neural Style Transfer
+10. Deep Photo Style Transfer
+11. Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses
+12. SON OF ZORN’S LEMMA TARGETED STYLE TRANSFER USING INSTANCE-AWARE SEMENTIC SEGMENTATION
+13. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+14. Characterizing and Improving Stability in Neural Style Transfer
+15. Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer
+16. Visual Attribute Transfer through Deep Image Analogy
+17. Demystifying Neural Style Transfer
+18. Neural Style Transfer:A Review
+19. Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
+20. Fast Face-swap Using Convolutional Neural Networks
+21. Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis
 
 
 

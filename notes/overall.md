@@ -28,3 +28,6 @@ size of HR. We just add the sub-pixel conv to the last of the model.
 
 This means the layer takes the input of H\*W\*(r\*r\*C) and outputs (r\*H)\*(r\*W)\*C.
 It periodically takes the pixel across the channel to construct the small path of r*r.
+
+## Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
+Seems the first paper in SR using GAN.

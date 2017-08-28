@@ -37,7 +37,7 @@ But I think if anyone can help me... Or maybe I just think too much.
 
 # Style Transfer
 1. A Neural Algorithm of Artistic Style
-2 .Texture Networks: Feed-forward Synthesis of Textures and Stylized Images
+2. Texture Networks: Feed-forward Synthesis of Textures and Stylized Images
 3. Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 4. Incorporating long-range consistency in CNN-based texture generation
 5. Deep Identity-aware Transfer of Facial Attributes

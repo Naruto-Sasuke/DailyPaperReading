@@ -57,6 +57,7 @@ But I think if anyone can help me... Or maybe I just think too much.
 19. Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
 20. Fast Face-swap Using Convolutional Neural Networks
 21. Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis
+22. Instance Normalization:The Missing Ingredient for Fast Stylization
 
 
 

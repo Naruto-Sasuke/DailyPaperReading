@@ -31,3 +31,6 @@ It periodically takes the pixel across the channel to construct the small path o
 
 ## Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
 Seems the first paper in SR using GAN.
+
+## Instance Normalization:The Missing Ingredient for Fast Stylization
+We all know that BN is that we take the whole batch to calcute the mean and variance of the whole batch. However, Instance Norm calculate means and variances(the same number) of the batch.

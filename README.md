@@ -24,17 +24,17 @@ But I think if anyone can help me... Or maybe I just think too much.
 
 # GAN
 
-1. Generative Adversarial Nets
-2. Conditional Generative Adversarial Nets
-3. Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks
+1. Generative Adversarial Nets (GAN)
+2. Conditional Generative Adversarial Nets (CGAN)
+3. Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (Laplacian GAN)
 4. Improved Techniques for Training GANs
-5. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+5. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (cycleGAN)
 6. CVAE-GAN:Fine-Grained Image Generation through Asymmetric Training
 7. One-Sided Unsupervised Domain Mapping
-8. Unsupervised Representations Learning With Deep Convolutional Generative Adversarial Networks
+8. Unsupervised Representations Learning With Deep Convolutional Generative Adversarial Networks (DCGAN)
 9. Image-to-Image Translation with Conditional Adversarial Networks
 10. Create Anime Characters with A.I.!
-11. Generative Semantic Manipulation with Constrasting GAN(Constrast-GAN)
+11. Generative Semantic Manipulation with Contrasting GAN(Contrast-GAN)
 
 # Style Transfer
 1. A Neural Algorithm of Artistic Style

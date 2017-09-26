@@ -34,6 +34,7 @@ But I think if anyone can help me... Or maybe I just think too much.
 8. Unsupervised Representations Learning With Deep Convolutional Generative Adversarial Networks
 9. Image-to-Image Translation with Conditional Adversarial Networks
 10. Create Anime Characters with A.I.!
+11. Generative Semantic Manipulation with Constrasting GAN(Constrast-GAN)
 
 # Style Transfer
 1. A Neural Algorithm of Artistic Style

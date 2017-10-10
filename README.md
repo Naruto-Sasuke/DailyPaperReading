@@ -100,6 +100,7 @@ But I think if anyone can help me... Or maybe I just think too much.
 2. Accurate Image Super-Resolution Using Very Deep Convolutional Networks(VDSR)
 3. Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network. (sub-pixel CNN)
 4. Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
+5. EnhanceNet:Single Image Super-Resolution through Automated Texture Synthesis.
 
 
 # Uncategory

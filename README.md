@@ -15,12 +15,9 @@ But I think if anyone can help me... Or maybe I just think too much.
 # Planning to read(hah)
 2. What are the Receptive, Effective, and Projective Fields of Neurons in Convolutional Neural Networks
 
-4. Photo-realistic single image super-resolution using a generative adversarial network.(SRResNet)
 5. How to train your dragan(DRGAN)
 6. Stacked Generative Adversaria Networks
 7. Show, Atend and Tell:Neural Image Caption Generation with Visual Attention
-8. StyleNet: Generating Attractive Visual Captions with Styles
-9. ZM-Net: Real-time Zero-shot Image Manipulation Network
 
 # GAN
 

@@ -92,6 +92,8 @@ But I think if anyone can help me... Or maybe I just think too much.
 # Inpainting
 1. Context Encoders: Feature Learning by Inpainting
 2. High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
+3. Globally and Locally Consistent Image Completion
+4. Object Removal by Exemplar-Based Inpainting
 
 # Image Caption
 

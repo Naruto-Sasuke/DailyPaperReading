@@ -91,6 +91,11 @@ But I think if anyone can help me... Or maybe I just think too much.
 2. High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
 3. Globally and Locally Consistent Image Completion
 4. Object Removal by Exemplar-Based Inpainting
+5. Shift-Map Image Editing
+6. PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing
+7. The Generalized PatchMatch Correspondence Algorithm
+8. Image Completion Approaches Using the Statistics of Similar Patches
+
 
 # Image Caption
 

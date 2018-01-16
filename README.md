@@ -111,3 +111,4 @@ But I think if anyone can help me... Or maybe I just think too much.
 # Uncategory
 1. RAID-G: Robust Estimation of Approximate Infinite Dimensional Gaussian with Application to Material Recognition
 2. Deep Feature Interpolation for Image Content Changes
+3. The Unreasonable Effectiveness of Deep Features as a Perceptual Metric

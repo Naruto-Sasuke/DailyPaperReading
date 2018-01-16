@@ -45,3 +45,6 @@ let `D_cy` be the role! That means the distance between `f_x` and `f_y_g` should
 Firstly, it uses a 3D-Encoder-Decoder(mini) to generate a small 3D object(low resolution). Then it aligns the object along the
 first principle conponent dimension and slices it into sequences. Feed them to 3D CNN and then use LSTM to dig out the coherent
 information and finally each slice will be processed by a 2D CNN to generate a 2D image. Dense slices will generate the same slices as `the original 3D model`
+
+## The Unreasonable Effectiveness of Deep Features as a Perceptual Metric
+Finding: the stronger a feature set is at classification and detection, the stronger it is as a model of perceptual similarity judgments.

@@ -54,7 +54,8 @@ It is novel and interesting for its idea of combinating multi-scale inputs into 
 In the past, if we need perform multi-scale by separately training such scale in one network, resulting in ungraceful or even non-end-to-end design.
 Some work build a multi-scale stacked inputs architecture to solve the problem, however, all the information are received in the very beginning.
 This work aims at dealing with this problem. It designs an **MRU(Masked Residual Unit)** which receives two inputs, one is the scaled original image and
-another is the feature representation. **MRU** design follows the thinking of GRU.
+another is the feature representation. **MRU** design follows the idea of GRU.
+
 ![MRU](../imgs/SketchyGAN_MRU.png)
 There is a mistake in **MRU** architecture.
 ![Network](../imgs/SketchyGAN_Unet.png)

@@ -48,3 +48,13 @@ information and finally each slice will be processed by a 2D CNN to generate a 2
 
 ## The Unreasonable Effectiveness of Deep Features as a Perceptual Metric
 Finding: the stronger a feature set is at classification and detection, the stronger it is as a model of perceptual similarity judgments.
+
+## SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis
+It is novel and interesting for its idea of combinating multi-scale inputs into one network in differnet levels of semantics.
+In the past, if we need perform multi-scale by separately training such scale in one network, resulting in ungraceful or even non-end-to-end design.
+Some work build a multi-scale stacked inputs architecture to solve the problem, however, all the information are received in the very beginning.
+This work aims at dealing with this problem. It designs an **MRU(Masked Residual Unit)** which receives two inputs, one is the scaled original image and
+another is the feature representation. **MRU** design follows the thinking of GRU.
+![MRU](../imgs/SketchyGAN_MRU.png)
+There is a mistake in **MRU** architecture.
+![Network](../imgs/SketchyGAN_Unet.png)

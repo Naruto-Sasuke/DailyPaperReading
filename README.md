@@ -33,6 +33,7 @@ But I think if anyone can help me... Or maybe I just think too much.
 10. Create Anime Characters with A.I.!
 11. Generative Semantic Manipulation with Contrasting GAN(Contrast-GAN)
 12. Shape Inpainting using 3D Generative Adversarial Network and Recurrent Convolutional Networks(LRCN)
+13. SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis 
 
 # Style Transfer
 1. A Neural Algorithm of Artistic Style
